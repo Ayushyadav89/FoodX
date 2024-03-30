@@ -1,6 +1,5 @@
 # FoodX
-<br>
-This is our food ordering website Project
+This is our food ordering website Project Which was build in 2 year of college
 <br>
 
 Team Member:
